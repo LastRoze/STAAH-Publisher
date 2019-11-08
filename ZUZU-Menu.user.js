@@ -27,5 +27,5 @@
 var unlocker = document.getElementById('middleselfpass');
 unlocker.style.display = null;
 
-var oneClick = "<tr><td style=\"text-align: center;\">ZUZU Menu</td></tr><tr><td style=\"text-align: center;\"> <input title=\"Update the rates for 30 days\" value=\"30 Days\" style=\"margin-right: 5px;\" type=\"button\" onclick=\"$('.btn-danger').click();\"><input title=\"Update the rates for 1 year\" value=\"Full Sync\" type=\"button\" onclick=\"$('.btn-gray').click();\"></td></tr>";
+var oneClick = "<tr><td style=\"text-align: center;font-size: 60px;color: #fff;text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080, 0 0 55px #ff0080, 0 0 75px #ff0080;\">ZUZU Menu</td></tr><tr><td style=\"text-align: center;\"> <input title=\"Update the rates for 30 days\" value=\"30 Days\" style=\"margin-right: 5px;\" type=\"button\" onclick=\"$('.btn-danger').click();\"><input title=\"Update the rates for 1 year\" value=\"Full Sync\" type=\"button\" onclick=\"$('.btn-gray').click();\"></td></tr>";
 $(oneClick).appendTo("thead");
