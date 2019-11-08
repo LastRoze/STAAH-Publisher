@@ -5,7 +5,7 @@
 // @copyright    ©2019 - Yoga Budiman
 // @version      1.1
 // @author       Last Roze
-// @homepageURL  https://github.com/LastRoze/STAAH-Publisher
+// @homepageURL  https://github.com/LastRoze/
 // @supportURL   https://linkedin.com/in/lastroze
 // @updateURL    https://github.com/LastRoze/STAAH-Publisher/raw/master/ZUZU-Menu.user.js
 // @downloadURL  https://github.com/LastRoze/STAAH-Publisher/raw/master/ZUZU-Menu.user.js
