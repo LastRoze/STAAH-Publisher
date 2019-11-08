@@ -24,7 +24,6 @@
 // @grant        GM.openInTab
 // @grant        GM.xmlHttpRequest
 // @grant        unsafeWindow
-// @run-at       document-start
 // @match        *://cp.staah.net/common-cgi/motels/admin/ChannelUpdate.pl*
 // @noframes
 // ==/UserScript==
