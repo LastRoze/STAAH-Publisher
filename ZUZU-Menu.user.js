@@ -3,7 +3,7 @@
 // @namespace    STAAH Publisher
 // @description  ZUZU Hospitality - STAAH Publisher is created to easily publish rates across OTA with one click.
 // @copyright    ©2019 - Yoga Budiman
-// @version      1.2
+// @version      1.3
 // @author       Last Roze
 // @homepageURL  https://github.com/LastRoze/
 // @supportURL   https://linkedin.com/in/lastroze
@@ -28,5 +28,5 @@
 // @noframes
 // ==/UserScript==
 
-var oneClick = "<tr><td style=\"text-align: center;font-weight:700;\">ZUZU Menu</td></tr><tr><td style=\"text-align: center;\"> <input title=\"Update the rates for 30 days\" value=\"30 Days\" style=\"margin-right: 5px;\" type=\"button\" onclick=\"$('.btn-danger').click();\"><input title=\"Update the rates for 1 year\" value=\"Full Sync\" type=\"button\" onclick=\"$('.btn-gray').click();\"></td></tr>";
+var oneClick = "<tr><td style=\"text-align: center;font-weight:700;\">ZUZU Menu</td></tr><tr><td style=\"text-align: center;\"> <input title=\"Update the rates for 30 days\" value=\"30 Days\" style=\"margin-right: 5px;\" type=\"button\" onclick=\"$('.btn-danger').click();\"><input title=\"Update the rates for 1 year\" value=\"Full Sync\" style=\"margin-right: 5px;\" type=\"button\" onclick=\"$('.btn-gray').click();\"><input title=\"Expand All\" value=\"+ All\" style=\"margin-right: 5px;\" type=\"button\" onclick=\"$('.pull-right').click();\"></td></tr>";
 $(oneClick).appendTo("thead");
