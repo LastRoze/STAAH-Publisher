@@ -3,7 +3,7 @@
 // @namespace    STAAH Publisher
 // @description  ZUZU Hospitality - STAAH Publisher is created to easily publish rates across OTA with one click.
 // @copyright    ©2019 - Yoga Budiman
-// @version      1.2
+// @version      1.3
 // @author       Last Roze
 // @homepageURL  https://github.com/LastRoze/
 // @supportURL   https://linkedin.com/in/lastroze
